@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 🤓 I'm currently diving deeper into the Linux operating system
 
 __**posdata: tambien ando aprendiendo english**_
+
+![Dancing Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
