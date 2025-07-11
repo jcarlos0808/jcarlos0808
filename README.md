@@ -6,14 +6,16 @@
 Here are some ideas to get you started:
 ## Hi there 👋
 
-🎓 Mi nombre es Juan Carlos (jcarlos0808)  
-📚 Estudio Ingeniería Informatica   
-🎮 Me apasiona la tecnología, el desarrollo de software y los videojuegos  
-⚽ Mi deporte favorito es el fútbol 
-🎨 Disfruto de aprender cosas nuevas, editar imágenes y explorar mi lado creativo  
-🧠 Creo que la curiosidad es la chispa del aprendizaje  
-🌄 Me encanta la naturaleza, los atardeceres y salir a caminar con buena música  
-🤓 Actualmente estoy aprendiendo sobre inteligencia artificial 
+## Hi there 👋
+
+🎓 My name is Juan Carlos (jcarlos0808)  
+📚 I study Computer Engineering  
+🎮 I'm passionate about technology, software development, and video games  
+⚽ My favorite sport is football (soccer)  
+🎨 I enjoy learning new things, editing images, and exploring my creative side  
+🧠 I believe curiosity is the spark that drives learning  
+🌄 I'm drawn to nature, sunsets, and long walks with good music  
+🤓 I'm currently diving deeper into the Linux operating system
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
