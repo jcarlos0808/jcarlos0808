@@ -4,6 +4,16 @@
 **jcarlos0808/jcarlos0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Hi there 👋
+
+🎓 Mi nombre es Juan Carlos (jcarlos0808)  
+📚 Estudio Ingeniería Informatica   
+🎮 Me apasiona la tecnología, el desarrollo de software y los videojuegos  
+⚽ Mi deporte favorito es el fútbol 
+🎨 Disfruto de aprender cosas nuevas, editar imágenes y explorar mi lado creativo  
+🧠 Creo que la curiosidad es la chispa del aprendizaje  
+🌄 Me encanta la naturaleza, los atardeceres y salir a caminar con buena música  
+🤓 Actualmente estoy aprendiendo sobre inteligencia artificial 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
