@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 🧠 I believe curiosity is the spark that drives learning  
 🌄 I'm drawn to nature, sunsets, and long walks with good music  
 🤓 I'm currently diving deeper into the Linux operating system
+
+**__postada: tambien ando aprendiendo english_**
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
