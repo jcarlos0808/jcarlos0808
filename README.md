@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🌄 I'm drawn to nature, sunsets, and long walks with good music  
 🤓 I'm currently diving deeper into the Linux operating system
 
-**__postada: tambien ando aprendiendo english_**
+__**posdata: tambien ando aprendiendo english**_
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
